@@ -1,0 +1,11 @@
+C:\Users\Thiago Ignácio\Documents\TDS08-Thiago Ignácio\SAMontagem\SAMontagem\bin\Debug\SAMontagem.exe.config
+C:\Users\Thiago Ignácio\Documents\TDS08-Thiago Ignácio\SAMontagem\SAMontagem\bin\Debug\SAMontagem.exe
+C:\Users\Thiago Ignácio\Documents\TDS08-Thiago Ignácio\SAMontagem\SAMontagem\bin\Debug\SAMontagem.pdb
+C:\Users\Thiago Ignácio\Documents\TDS08-Thiago Ignácio\SAMontagem\SAMontagem\obj\Debug\SAMontagem.csprojAssemblyReference.cache
+C:\Users\Thiago Ignácio\Documents\TDS08-Thiago Ignácio\SAMontagem\SAMontagem\obj\Debug\SAMontagem.Properties.Resources.resources
+C:\Users\Thiago Ignácio\Documents\TDS08-Thiago Ignácio\SAMontagem\SAMontagem\obj\Debug\SAMontagem.csproj.GenerateResource.cache
+C:\Users\Thiago Ignácio\Documents\TDS08-Thiago Ignácio\SAMontagem\SAMontagem\obj\Debug\SAMontagem.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Ignácio\Documents\TDS08-Thiago Ignácio\SAMontagem\SAMontagem\obj\Debug\SAMontagem.exe
+C:\Users\Thiago Ignácio\Documents\TDS08-Thiago Ignácio\SAMontagem\SAMontagem\obj\Debug\SAMontagem.pdb
+C:\Users\Thiago Ignácio\Documents\TDS08-Thiago Ignácio\SAMontagem\SAMontagem\obj\Debug\SAMontagem.FormMontagem.resources
+C:\Users\Thiago Ignácio\Documents\TDS08-Thiago Ignácio\SAMontagem\SAMontagem\obj\Debug\SAMontagem.FormPatio.resources
